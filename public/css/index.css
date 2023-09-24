@@ -18,8 +18,8 @@
 
 .task4 {
   width: 1000px;
-  position: relative; 
 }
+
 .task4 .item {
   position: sticky;
   top: 0;
@@ -79,6 +79,7 @@
     right: calc(-100% + 90px);
 }
 .task9 p {
+  /*  */
 }
 
 .task10 .item1 {
@@ -92,6 +93,7 @@
     float: right;
 }
 .task10 p {
+  /*  */
 }
 
 .task11 .img-item {
@@ -152,11 +154,11 @@
 }
 
 .task20 {
-  user-select:none;
+  user-select: none;
 }
 
 .task21 {
-  user-select:all;
+  user-select: all;
 }
 
 .task22 {
